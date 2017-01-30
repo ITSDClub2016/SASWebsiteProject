@@ -67,4 +67,4 @@
     </div>
 
 
-    <?php $page = "info"; include 'footer.php';?>
+    <?php include 'footer.php';?>
