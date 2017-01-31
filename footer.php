@@ -18,7 +18,7 @@
     <div class="footer-subfooter">
         <div class="container">
             <div class="col-md-6">&#169; All copyrights reserved</div>
-            <div class="col-md-6 text-right">Design and Developed by SAIT IT-Software Development students</div>
+            <div class="col-md-6 text-right">Designed and Developed by SAIT IT-Software Development students</div>
         </div>
     </div>
 </footer>
