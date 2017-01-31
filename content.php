@@ -1,4 +1,3 @@
-<div class="col-md-9">
     <h3>Resources / CPA Connect</h3>
     <hr>
     <p>
@@ -12,4 +11,3 @@
         <br><br>
         Duis et porta augue. Curabitur et augue auctor ipsum finibus faucibus. Nam vitae dictum nisl. Morbi blandit libero eu massa iaculis, at auctor massa rutrum. Phasellus condimentum ex nec elementum pellentesque. Vestibulum consequat odio augue, nec eleifend erat pharetra non. Donec venenatis lorem in ligula ultricies feugiat sed id velit. Donec venenatis ipsum eu diam rhoncus tristique. Cras tincidunt ac mi eu pellentesque. Quisque a vestibulum odio. Phasellus sodales, elit eu ullamcorper malesuada, purus justo posuere mauris, vitae eleifend velit massa sit amet neque. Aenean gravida velit id augue facilisis dapibus.
     </p>
-</div>
