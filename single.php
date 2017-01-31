@@ -11,6 +11,11 @@
         <?php include 'blog.php';?>
     </div>
     
+    <div class="col-md-"
+    
+    <?php include 'members.php';?>
+    
+    <div class="hidden-sm-down">
     <div class="hidden-sm-down col-md-3">
         <?php include 'sidebar.php';?>
     </div>

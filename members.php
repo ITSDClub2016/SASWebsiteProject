@@ -1,4 +1,6 @@
 <div class="col-md-2">
+
+    <div class="member-img" style="background: url(images/profile_test.jpg)"></div>
     
 </div>
 <div class="col-md-10">
