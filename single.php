@@ -5,10 +5,21 @@
 <div class="container">
     
     <br><br>
+    <div class="col-md-9">
+<!--        <?php include 'content.php';?>-->
+<!--        <?php include 'members.php';?>-->
+        <?php include 'blog.php';?>
+    </div>
     
-    <?php include 'content.php';?>
+<<<<<<< HEAD
+    <div class="col-md-"
+    
+    <?php include 'members.php';?>
     
     <div class="hidden-sm-down">
+=======
+    <div class="hidden-sm-down col-md-3">
+>>>>>>> master
         <?php include 'sidebar.php';?>
     </div>
     

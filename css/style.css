@@ -48,7 +48,9 @@ footer li a{
     padding: 5px;
     margin-top: 10px;
 }
-
+.dp{
+    cursor:pointer;
+}
 
 .header-icons i{
     color: #EE6E73;

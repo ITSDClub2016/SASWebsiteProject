@@ -34,7 +34,7 @@
 <body>
 
 
-    <nav class="navbar navbar-default">
+    <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -51,14 +51,14 @@
                     <li><a href="#">Events</a></li>
                     <li><a href="#">Resources</a></li>
                     <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown">Memebership<span class="caret"></span></a>
+                        <a class="dropdown-toggle dp" data-toggle="dropdown">Memebership<span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="#">General Members</a></li>
                             <li><a href="#">Become an executive</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown">Connect<span class="caret"></span></a>
+                        <a class="dropdown-toggle dp" data-toggle="dropdown">Connect<span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="#">Meet our SAS Ambassadors</a></li>
                             <li><a href="#">Have a coffee meeting</a></li>
