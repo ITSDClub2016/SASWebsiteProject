@@ -1,10 +1,5 @@
 <div class="col-md-2">
-<<<<<<< HEAD
 
-    <div class="member-img" style="background: url(images/profile_test.jpg)"></div>
-    
-=======
-<<<<<<< HEAD
     <div class="member-img" style="background: url(images/profile_test.jpg)"></div>
 
 </div>
