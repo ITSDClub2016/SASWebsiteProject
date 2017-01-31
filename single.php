@@ -6,8 +6,8 @@
     
     <br><br>
     <div class="col-md-9">
-<!--        <?php include 'content.php';?>-->
-<!--        <?php include 'members.php';?>-->
+        <?php //include 'content.php';?>
+        <?php //include 'members.php';?>
         <?php include 'blog.php';?>
     </div>
     
