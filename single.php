@@ -6,7 +6,9 @@
     
     <br><br>
     <div class="col-md-9">
-        <?php include 'content.php';?>
+<!--        <?php include 'content.php';?>-->
+<!--        <?php include 'members.php';?>-->
+        <?php include 'blog.php';?>
     </div>
     
     <div class="hidden-sm-down col-md-3">
