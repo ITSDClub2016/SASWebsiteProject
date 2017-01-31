@@ -46,7 +46,7 @@
             </div>
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">home</a></li>
+                    <li class="active"><a href="#">Home</a></li>
                     <li><a href="#">The Executives</a></li>
                     <li><a href="#">Events</a></li>
                     <li><a href="#">Resources</a></li>

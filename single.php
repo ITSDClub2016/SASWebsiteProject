@@ -4,15 +4,16 @@
 
 <div class="container">
     
-    <div class="content">
+    <br><br>
     
+    <?php include 'content.php';?>
+    
+    <div class="hidden-sm-down">
+        <?php include 'sidebar.php';?>
     </div>
     
-    <div class="sidebar hidden-sm-down">
-    
-    </div>
+    <br><br>
     
 </div>
 
-<?php include 'sidebar.php';?>
 <?php include 'footer.php';?>
