@@ -1,7 +1,15 @@
 <div class="col-md-2">
+<<<<<<< HEAD
 
     <div class="member-img" style="background: url(images/profile_test.jpg)"></div>
     
+=======
+<<<<<<< HEAD
+    <div class="member-img" style="background: url(images/profile_test.jpg)"></div>
+=======
+    
+>>>>>>> master
+>>>>>>> daniel.work
 </div>
 <div class="col-md-10">
     <h3>First Last Name</h3>
