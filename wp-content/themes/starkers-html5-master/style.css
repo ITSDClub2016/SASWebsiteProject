@@ -1,0 +1,155 @@
+/*
+Theme Name: Starkers HTML5
+Theme URI: http://nathanstaines.com
+Description: An HTML5 version of <a href="http://elliotjaystocks.com/starkers/">Starkers</a> by <a href="http://elliotjaystocks.com/">Elliot Jay Stocks</a> which is based on Twenty Ten.
+Version: 3.2
+Author: Nathan Staines
+Author URI: http://nathanstaines.com
+Tags: starkers, html5, naked, clean, basic
+*/
+
+@import "css/layout.css";
+
+/*----------GENERAL---------*/
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    font-family:'Roboto' ,sans-serif;
+/*    padding-top: 50px;*/
+}
+.pink{
+    background: #EE6E73;
+    color: white;
+    border: none;
+}
+.blue-text{
+    color: #337ab7;
+}
+main {
+    flex: 1 0 auto;
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: auto;
+    display: block;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: 300;
+}
+.no-pad{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+/*----------footer---------*/
+
+footer{
+    width: 100%;
+    background-color: #EE6E73;
+    color: white;
+    padding-top: 20px;
+    margin-top: 50px;
+}
+
+footer ul{
+    padding-left: 0;
+    list-style-type: none;
+}
+footer li{
+    text-decoration: none;
+    list-style-type:none;
+    color: white;
+}
+footer li a{
+    color: rgba(255,255,255,0.5);
+}
+.footer-subfooter{
+    background-color: rgba(0,0,0,0.2);
+    font-size: 10px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+/*-----NAVIGATION---------*/
+
+.dropdown-toggle{
+    cursor:pointer;
+}
+
+.header-icons i{
+    color: #EE6E73;
+    font-size: 18px;
+}
+
+.navbar-brand{
+    padding: 6px 40px 6px 40px;
+}
+
+.header-logo{
+    height: 100%;
+}
+
+
+/*---------HOME PAGE----------*/
+.home-title{
+    font-size: 20px;
+    padding: 30px;
+    text-align: right;
+    font-weight: 300;
+}
+.content-title{
+    font-size: 25px;
+    font-weight: 100;
+    padding: 30px;
+}
+.home-content{
+    padding: 30px;
+}
+.home-quick-link{
+    background-color: #f4f4f4;
+    height: auto;
+    overflow: auto;
+    margin-bottom: -50px;
+}
+.home-quick-link div{
+    padding: 30px;
+    text-align: center;
+    border: 1px white solid;
+}
+
+@media only screen and (max-width: 768px) {
+    .home-title{
+        text-align: left;
+        padding: 15px;
+        padding-top: 30px;
+    }
+    .home-content{
+        padding: 15px;
+        padding-top: 0px;
+    }
+}
+
+
+/*-------MEMEBERS--------*/
+.member-img{
+    height: 130px;
+    width: 130px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 100%;
+}
+@media only screen and (max-width: 992px) {
+    .member-img{
+        display: block;
+        margin: auto;
+        
+    }
+}
+
+/*-------------BLOG----------*/
+.post-in-loop{
+    border-bottom: 1px dashed gray;
+    padding-bottom: 20px;
+}
